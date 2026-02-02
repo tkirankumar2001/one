@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <h1> Hey I did the tomcat deployment </h1>
+<h2> Just configured the build periodically <h2>
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
